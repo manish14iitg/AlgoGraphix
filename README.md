@@ -1,2 +1,2 @@
 
-Access the Website here : https://graphalgorithmsvisualizer10101.netlify.app/
+Access the Website here : [Algo-Graphix](https://algo-graphix.netlify.app/)
